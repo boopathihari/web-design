@@ -13,3 +13,5 @@
 2. Run the Application using
      npm install
      npm start
+
+3. Used tailwindcss for the frontend design 
