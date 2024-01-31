@@ -1,17 +1,3 @@
-# Project Title
-
-Brief description of your project.
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
 
 ### Prerequisites
 
@@ -27,4 +13,9 @@ Provide step-by-step instructions on how to install your project. For example:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/boopathihari/Comment-Snippet.git
+
+
+2. Run the Application using
+     npm install
+     npm start
